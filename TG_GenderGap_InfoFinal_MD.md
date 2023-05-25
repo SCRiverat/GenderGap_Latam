@@ -1,0 +1,26 @@
+﻿> **Incluido en informe final de Technopolis, sobre la elaboración de la guía metodológica para la medición de brechas de género en ciencia**
+**2. Informe final sobre la elaboración de la guía metodológica para la medición de brechas de género en ciencia**
+
+**2\.1 Plan de trabajo** 
+
+En la elaboración de la guía se realizaron las siguientes actividades:   
+
+1. Revisión de experiencias y buenas prácticas en países de la región, a partir de literatura académica y gris, de sitios web institucionales, manuales y guías publicados.  
+2. Formulación de los aspectos conceptuales y metodológicos de la guía para la medición de brechas de género en la ciencia en Iberoamérica.  
+3. Elaboración de la guía para la medición de brechas de género en la ciencia en Iberoamérica. 
+4. Socialización y validación de la guía en sesiones con el grupo de trabajo de la RICYT.  
+5. Elaboración y edición de la versión final de la guía con los ajustes sugeridos.  
+
+**2\.2. Actividades realizadas**
+
+|No |**Nombre de la actividad** |**Descripción** |
+| - | :- | :-: |
+|1 |Revisión de experiencias en países región, a partir de literatura académica y gris, de sitios web institucionales, manuales y guías publicados   |<p>Se realizaron actividades orientadas a la revisión de experiencias y estudios relacionados con la conceptualización de las brechas de género en ciencia y su medición, tales como:  </p><p>i) Iniciativas de organismos internacionales sobre medición de brechas de género temática en países de la región </p><p>ii) Estudios regionales que incluyan conceptos y categorías en la medición de las brechas de género en la dimensión educativa o laboral en el ámbito de la ciencia y la tecnología en algunos países iberoamericanos  </p><p>iii) Análisis de la literatura académica, relacionada con la medición de brechas de género en artículos publicados en revistas indexados en la base WoS (incluidos en la colección principal y SciELO) </p><p>iv). Identificación de temáticas asociadas al estudio de la medición de las brechas de género en la ciencia, así como las nociones y categorías de referencia a ser consideradas en la guía metodológica.  </p>|
+|2 |<p>Formulación de los aspectos conceptuales  </p><p> </p>|Con el objetivo de medir la real dimensión de la brecha de género en CyT en la región, se avanzó en la formulación del marco conceptual, orientado a identificar las nociones, categorías e indicadores a incluir en la guía para la medición de brechas de género en la ciencia.  |
+|3 |Elaboración de la guía de la guía para la medición de brechas de género  |Se tomaron los insumos de las actividades previas, para construir la versión inicial de la guía, la cual comprende el marco conceptual, las etapas para la producción de indicadores de género y una propuesta de indicadores asociados a educación superior y personal de I+D. |
+|4 |<p>*Socialización y validación de la guía en sesiones con el grupo de trabajo de la RICYT* </p><p>  </p>|<p>En coordinación con la RICyT y la Red Índices se realizaron tres sesiones sobre las experiencias de algunos expertos vinculados a entidades responsables de la producción de indicadores en los sectores de CTI o de educación superior en países de la región, así:  </p><p>Primera sesión (mayo de 2022): Se abordó el tema de las políticas de CTI en materia de género, su medición de las diferentes brechas en la actividad científica, con el fin de establecer un espacio de socialización de las experiencias de los países y de los criterios a ser considerados en la elaboración de la guía.    </p><p>Segunda sesión, (agosto de 2022): Contó con la participación del equipo del Ministerio de Ciencia, Tecnología, Conocimiento e Innovación de Chile y RICyT, y se presentaron las experiencias relacionadas con medición de la I+D desde una perspectiva de género, ligada a la encuesta de I+D, la Encuesta de profesionales con grado de doctor y proyecto SAGA.   </p><p>Tercera sesión (noviembre 2022): Se realizó con la mesa de trabajo convocada por RICyT, se presentaron los avances de la guía de la medición de las brechas de género en ciencia y tecnología a los expertos en la temática en la región y se identificaron los pasos a seguir para la elaboración de la versión definitiva de la guía.  </p>|
+|<p>5 </p><p> </p>|Elaboración de la versión final de la guía |Se tomaron los insumos de las sesiones y las observaciones del equipo interno de RICyT, las observaciones y comentarios se incorporaron en la versión final. |
+
+**2\.3 Resultados obtenidos**
+
+La versión final de la guía recoge los insumos obtenidos en las actividades mencionadas. La guía recopila en la primera sección, algunos referentes internacionales para la medición de las brechas de género a modo de antecedentes. En la segunda y tercera sección se incluyen los conceptos y la formulación de las etapas consideradas en la producción de indicadores. En la cuarta sección se introducen las categorías, variables e indicadores movilizados para la medición de brechas de género en países de la región y, en la sección final se incluyen algunas recomendaciones para su adopción. 
